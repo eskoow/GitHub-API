@@ -1,0 +1,51 @@
+body {
+  background-color: rgb(234, 233, 235);
+}
+.container {
+  font-family: "Baloo 2", cursive;
+}
+.form-group {
+  width: 100%;
+}
+.formControls {
+  width: 100%;
+  text-align: center;
+  padding-bottom: 3%;
+  padding-top: 1%;
+  margin-bottom: 2%;
+  background-color: white;
+}
+.form-group label {
+  width: 50%;
+  margin-right: 5px;
+}
+.form-group input {
+  width: 50%;
+  margin-top: 1%;
+}
+.form-group button {
+  margin-top: 1%;
+}
+.tableContainer {
+  width: 100%;
+}
+.table {
+  width: 100%;
+  height: 100%;
+  padding: 2%;
+  background-color: white;
+  margin-bottom: 1%;
+  table-layout: fixed;
+}
+td {
+  margin: 5px;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  word-wrap: break-word;
+}
+
+.githubLogo {
+  width: 200px;
+  height: 100px;
+}
